@@ -1,6 +1,5 @@
 ### Hi there, I'm Adnan 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on flutter
 - 🌱 I’m currently learning node.js
