@@ -1,4 +1,4 @@
-### Hi there, It's Adnan 👋
+### Hi there, I'm Adnan 👋
 
 Here are some ideas to get you started:
 
